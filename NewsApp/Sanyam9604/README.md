@@ -1,12 +1,34 @@
 # NewsMonKey - An online news portal application
 
+
 The main objective of this project is to provide all type of instant and important news related to business, science, technology, national, entertainment, education, sports, etc. With categorised properly in different domains in a very user friendly and attractive way. News on the Internet can be updated round the clock so that readers can have the most up-to-date news any time of the day or night. Once a news item is put on the Internet, it becomes instantly available for use round the globe without additional variable costs.
 The lead time required between occurrence of an event and news making on it available on the Internet has reduced considerably. Some items of news like stock market prices are now available almost in real-time. News provider can get detailed data on popularity of news items. This information can help in better choice of information put on the site.
-The NewsApi will manage, upload news from anywhere at any time through web. User can get professionally published online news, corporate press releases, or other content without any delay in real-time
+With the help of NewsApi we can manage, upload news from anywhere at any time through web. User can get professionally published online news, corporate press releases, or other content without any delay in real-time.
 
-![Screenshot (63)](https://user-images.githubusercontent.com/56975199/163700654-fceee17d-59bb-4764-bd2b-20c3210517bc.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/56975199/163700661-b0311df1-eead-480e-ab7f-3bd5b59df43b.png)
-![Screenshot (59)](https://user-images.githubusercontent.com/56975199/163700666-7cc418a6-a6d6-4407-b1ed-001a9be5a0e7.png)
+
+# Technology used:
+React.js: For developing single-page applications. Includes the use of additional libraries for routing, as well as certain client-side functionalities for providing lightweight and fast-running web applications.
+Node.js: For Asynchronous, I/O bound, JSON and APIs based Applications. CSS and Bootstrap: For styling and designing the responsive and mobile-first interface.
+CSS and Bootstrap: For styling and designing the responsive and mobile-first interface.
+NewsApi: For fetching all the latest news in their respective category as JSON data.
+
+
+# Working project:
+
+
+![Screenshot (60)](https://user-images.githubusercontent.com/56975199/163700783-98729023-f6ed-4638-8ee8-7a97a533bdd1.png)
+
+
+![Screenshot (64)](https://user-images.githubusercontent.com/56975199/163700785-1c6aae20-9bc5-47ac-91a9-ea404f87b94d.png)
+
+
+![Screenshot (61)](https://user-images.githubusercontent.com/56975199/163700790-1005d242-c45e-466e-9550-94d32213b168.png)
+
+
+
+
+
+
 
 # Getting Started with Create React App
 
